@@ -47,7 +47,7 @@ Glöm inte kolla GPU. Använd "Cuda"
 Ex 1.4: Om vi hjar en stegfunktion motsvarar sj värdet s vid steg j. rj motsvarar tiden/steget/x-axelns värden för steg j. \
 Ex 1.12: \
 Utgå från 1.4 s = (3,  1, 0, 4,  8, 6, 9, 9). Initiering a3 = s.\
-Svep 1: a(3-1) = 3+1/1, 0+4/2, 8+6/2, 9+9/2 = (2, 2, 7, 9) \
+Svep 1: a(3-1) = 3+1/2, 0+4/2, 8+6/2, 9+9/2 = (2, 2, 7, 9) \
 c(3-1) = 3-1/1, 0-4/2, 8-6/2, 9-9/2 = (1, -2, 1, 0) \
 Detta ger s(3-1) = (a(3-1); s(3-1)) = (2, 2, 7, 9; 1, -2, 1, 0). Detta är ett Svep.\
 \
